@@ -1,0 +1,20 @@
+{
+    "lahore": {
+      "food": ["Butt Karahi", "Phajja Siri Paye", "Haveli Restaurant"],
+      "hotels": ["Avari Lahore", "Pearl Continental", "Hotel One"],
+      "places": ["Badshahi Mosque", "Lahore Fort", "Minar-e-Pakistan"]
+    },
+    "karachi": {
+      "food": ["Kolachi", "Cafe Flo", "BBQ Tonight"],
+      "hotels": ["Marriott", "Mövenpick", "Avari Towers"],
+      "places": ["Clifton Beach", "Frere Hall", "Mazar-e-Quaid"]
+    },
+    "islamabad": {
+      "food": ["Monal", "Street 1 Cafe", "Des Pardes"],
+      "hotels": ["Serena Hotel", "Islamabad Marriott", "Shangri-La"],
+      "places": ["Faisal Mosque", "Daman-e-Koh", "Pakistan Monument"]
+    }
+    
+
+  }
+  
